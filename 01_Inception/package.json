@@ -1,0 +1,29 @@
+{
+  "name": "01_inception",
+  "version": "1.0.0",
+  "description": "this is react learning",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/Roshu-3158/Reactjs#readme",
+  "bugs": {
+    "url": "https://github.com/Roshu-3158/Reactjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roshu-3158/Reactjs.git"
+  },
+  "license": "ISC",
+  "author": "Roshan Nikam",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}

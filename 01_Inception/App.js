@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";  // Correct import for React 18+
+
 const heading = React.createElement("h1", {id: "heading"}, "Hello world from React!");
 //1)element 2)attribute(id,class,....) 3)content 
 

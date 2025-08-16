@@ -16,3 +16,4 @@
 - diagnostic
 - error handling
 - HTTPs
+- Tree shaking - remove unused code 
